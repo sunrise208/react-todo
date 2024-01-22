@@ -80,3 +80,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Todo-Web-App
 
+## Contact
+
+For any questions or inquiries, please reach out to the development team at [sunrise96208@gmail.com]
+
+Enjoy using my project and stay productive!
+
